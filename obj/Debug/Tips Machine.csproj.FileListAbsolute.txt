@@ -1,0 +1,10 @@
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\bin\Debug\Tips Machine.exe.config
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\bin\Debug\Tips Machine.exe
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\bin\Debug\Tips Machine.pdb
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\obj\Debug\Tips Machine.csprojAssemblyReference.cache
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\obj\Debug\Tips_Machine.Form1.resources
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\obj\Debug\Tips_Machine.Properties.Resources.resources
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\obj\Debug\Tips Machine.csproj.GenerateResource.cache
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\obj\Debug\Tips Machine.csproj.CoreCompileInputs.cache
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\obj\Debug\Tips Machine.exe
+C:\Users\Alexa.DESKTOP-N1BFAKT\source\repos\Tips Machine\Tips Machine\obj\Debug\Tips Machine.pdb
